@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4921
+
+Once installed, create a todo.txt file, then you can create todo list
+
+[ ] this is a todo
+[.] this is a low priority todo
+[x] this is a finished todo
+
+!this is a highlight line
+TODO: this is a pink todo
+@@: this is pink todo
